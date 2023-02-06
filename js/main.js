@@ -35,7 +35,7 @@ for (let info in team4) {
     console.log(team4[info]);
 }
 const team5 = {
-    nome: "Scott Estrada		",
+    nome: "Scott Estrada",
     role: "	Developer",
     picture: "scott-estrada-developer.jpg",
 
